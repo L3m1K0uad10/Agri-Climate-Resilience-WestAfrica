@@ -18,7 +18,7 @@ We utilize three primary streams of data from FAOSTAT (2003-2023):
 2. **Fertilizer Usage**: Agricultural use measured in tonnes.
 3. **Climate Change**: Temperature change anomalies in °C.
 
-> 💡 *For a detailed breakdown of columns, units, and cleaning steps, see the [Dataset Metadata]([https://github.com/L3m1K0uad10/Agri-Climate-Resilience-WestAfrica/blob/main/datasets/metadata.md]).*
+> 💡 *For a detailed breakdown of columns, units, and cleaning steps, see the [Dataset Metadata](dataset/metadata.md).*
 
 ## 🎯 4. Objectives
 - **Identify Correlation**: How sensitive are West African staples to the current 1.5°C warming trend?
